@@ -1,5 +1,5 @@
 # Nicolas Ramos
-** Legajo **: 222.629-7
+**Legajo**: 222.629-7
 
 ![foto](foto.jpeg)
 
